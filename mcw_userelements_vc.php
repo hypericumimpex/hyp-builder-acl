@@ -9,7 +9,7 @@ Description: Show or hide WPBakery Page Builder content elements depending on th
 Text Domain: mcw_userelements_vc
 */
 
-/* Copyright 2015 Mehmet Celik */
+/* Copyright 2019 HYPERICUM IMPEX */
 /* Coding is an Art */
 
 // don't load directly
