@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements for Users - Addon for WPBakery Page Builder\n"
+"POT-Creation-Date: 2018-04-28 19:37+0300\n"
+"PO-Revision-Date: 2018-04-28 19:40+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mcw_userelements_vc.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mcw_userelements_vc.php:704
+#, php-format
+msgid "Enable %s to check content on the go."
+msgstr "Öğeyi daha sonra kontrol etmek için %s seçilir kılın."
+
+#: mcw_userelements_vc.php:704 mcw_userelements_vc.php:728
+msgid "Advanced Replace"
+msgstr "Gelişmiş Seçenek"
+
+#: mcw_userelements_vc.php:706
+msgid ""
+"Select the WPBakery Page Builder content elements that will show the user "
+"attribute settings."
+msgstr ""
+"Elements for Users ayarlarını gösterecek WPBakery Page Builder içerik "
+"öğelerini seçin."
+
+#: mcw_userelements_vc.php:707
+msgid "This option might be needed for most third party extension elements."
+msgstr "Bu opsiyon üçüncü parti eklentiler için gerekir."
+
+#: mcw_userelements_vc.php:760
+msgid "Show For"
+msgstr "Göster"
+
+#: mcw_userelements_vc.php:764
+msgid "Everyone"
+msgstr "Herkes"
+
+#: mcw_userelements_vc.php:765
+msgid "Not Logged In Users"
+msgstr "Giriş Yapmamış Kullanıcılar"
+
+#: mcw_userelements_vc.php:766
+msgid "All Members"
+msgstr "Bütün Kullanıcılar"
+
+#: mcw_userelements_vc.php:767
+msgid "Members with Selected User Roles"
+msgstr "Seçilen Kullanıcı Rolüne Sahip Üyeler"
+
+#: mcw_userelements_vc.php:768 mcw_userelements_vc.php:893
+msgid "Selected Users"
+msgstr "Seçilen Kullanıcılar"
+
+#: mcw_userelements_vc.php:769 mcw_userelements_vc.php:912
+msgid "Discarded Users"
+msgstr "Gizlenen Kullanıcılar"
+
+#: mcw_userelements_vc.php:770 mcw_userelements_vc.php:931
+msgid "Selected Devices"
+msgstr "Seçilmiş Cihazlar"
+
+#: mcw_userelements_vc.php:771
+msgid "Date Range"
+msgstr "Tarih Aralığı"
+
+#: mcw_userelements_vc.php:772
+msgid "Time Range"
+msgstr "Saat Aralığı"
+
+#: mcw_userelements_vc.php:773 mcw_userelements_vc.php:853
+msgid "URL Parameters"
+msgstr "URL Parametreleri"
+
+#: mcw_userelements_vc.php:774
+msgid "PHP Function"
+msgstr "PHP Fonksiyon İsmi"
+
+#: mcw_userelements_vc.php:776
+msgid "Select the member filter this element will be visible to."
+msgstr "Bu öğenin gösterileceği kullanıcı filtresini seçin."
+
+#: mcw_userelements_vc.php:782
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+#: mcw_userelements_vc.php:788
+#, php-format
+msgid ""
+"Enter the start date (and time if necessary) that the element will be shown "
+"in the format %s."
+msgstr ""
+"Bu öğenin gösterileceği başlangıç saatini girin. Zaman %s olarak "
+"girilmelidir."
+
+#: mcw_userelements_vc.php:788 mcw_userelements_vc.php:802
+msgid "Year/Month/Day Hour:Minute"
+msgstr "Yıl/At/Gün Saat:Dakika"
+
+#: mcw_userelements_vc.php:789
+msgid ""
+"Leave empty if there is no start date. The date/time should be in server "
+"date/time."
+msgstr ""
+"Başlangıç tarihi yoksa boş bırakınız. Sunucu tarihi/saati baz alınmalıdır."
+
+#: mcw_userelements_vc.php:790 mcw_userelements_vc.php:804
+#: mcw_userelements_vc.php:818 mcw_userelements_vc.php:832
+msgid "Example"
+msgstr "Örnek"
+
+#: mcw_userelements_vc.php:790 mcw_userelements_vc.php:804
+msgid "Current Server Time"
+msgstr "Sunucu Zamanı"
+
+#: mcw_userelements_vc.php:796
+msgid "End Date"
+msgstr "Bitis Tarihi"
+
+#: mcw_userelements_vc.php:802
+#, php-format
+msgid ""
+"Enter the end date (and time if necessary) that the element will be shown in "
+"the format %s."
+msgstr ""
+"Bu öğenin gösterileceği bitiş saatini girin. Zaman %s olarak girilmelidir."
+
+#: mcw_userelements_vc.php:803
+msgid ""
+"Leave empty if there is no end date. The date/time should be in server date/"
+"time."
+msgstr "Bitiş tarihi yoksa boş bırakınız. Sunucu tarihi/saati baz alınmalıdır."
+
+#: mcw_userelements_vc.php:810
+msgid "Start Time"
+msgstr "Başlangıç Zamanı"
+
+#: mcw_userelements_vc.php:816
+#, php-format
+msgid "Enter the start time that the element will be shown in the format %s."
+msgstr ""
+"Bu öğenin gösterileceği başlangıç saatini girin. Zaman %s olarak "
+"girilmelidir."
+
+#: mcw_userelements_vc.php:816 mcw_userelements_vc.php:830
+msgid "Hour:Minute"
+msgstr "Saat:Dakika"
+
+#: mcw_userelements_vc.php:817 mcw_userelements_vc.php:831
+msgid "The time should be in server time."
+msgstr "Sunucu saati baz alınmalıdır."
+
+#: mcw_userelements_vc.php:824
+msgid "End Time"
+msgstr "Bitiş Zamanı"
+
+#: mcw_userelements_vc.php:830
+#, php-format
+msgid "Enter the end time that the element will be shown in the format %s."
+msgstr "Bu öğenin gösterileceği bitiş saatini girin. Zaman %s girilmelidir."
+
+#: mcw_userelements_vc.php:838
+msgid "Condition"
+msgstr "Şart"
+
+#: mcw_userelements_vc.php:843
+msgid "AND"
+msgstr "VE"
+
+#: mcw_userelements_vc.php:844
+msgid "OR"
+msgstr "VEYA"
+
+#: mcw_userelements_vc.php:847
+msgid ""
+"Select the condition. AND will check for all parameters, OR will check one "
+"of the parameters."
+msgstr ""
+"Şartı seçin. VE bütün parametreleri kontrol eder. VEYA parametrelerden "
+"birini kontrol eder."
+
+#: mcw_userelements_vc.php:863
+msgid "Function Name"
+msgstr "Fonksiyon Adı"
+
+#: mcw_userelements_vc.php:868
+msgid ""
+"Enter the PHP function name that suggests whether the element is shown. "
+"(Return true if the element will be hidden.)"
+msgstr ""
+"Bu öğenin görünmesini öneren PHP fonksiyonunun adını girin. (Öğenin "
+"gizlenmesini istiyorsanız true dönün.)"
+
+#: mcw_userelements_vc.php:874
+msgid "Selected User Roles"
+msgstr "Seçilmiş Kullanıcı Rolü"
+
+#: mcw_userelements_vc.php:887
+msgid ""
+"Select user roles which this element will be visible to. Type Administrator, "
+"Editor, Author, Contributor, Subscriber or any other user role defined."
+msgstr ""
+"Bu öğenin gösterileceği kullanıcı rollerini seçin. Örnek: Administrator, "
+"Editor, Author, Contributor, Subscriber veya tanımlanmış diğer kullanıcı "
+"rolleri."
+
+#: mcw_userelements_vc.php:906
+msgid ""
+"Select users which this element will be visible to. Type user name, user "
+"login name or user email."
+msgstr ""
+"Bu öğenin gösterileceği kullanıcıları seçin. Kullanıcı adını, kullanıcı "
+"giriş adını veya emailini yazabilirsiniz."
+
+#: mcw_userelements_vc.php:925
+msgid ""
+"Select users which this element will NOT be visible to. Type user name, user "
+"login name or user email."
+msgstr ""
+"Bu öğenin gizleneceği kullanıcıları seçin. Kullanıcı adını, kullanıcı giriş "
+"adını veya emailini yazabilirsiniz."
+
+#: mcw_userelements_vc.php:944
+msgid "Select devices which this element will be visible to. Options:"
+msgstr "Bu öğenin gösterileceği cihazları seçin. Seçenekler:"
+
+#: mcw_userelements_vc.php:989
+msgid "WPBakery Page Builder Content Elements"
+msgstr "WPBakery Page Builder İçerik Öğeleri"
+
+#: mcw_userelements_vc.php:997
+msgid "Check All"
+msgstr "Hepsini Seç"
+
+#. Plugin Name of the plugin/theme
+msgid "EFU Permissions"
+msgstr "EFU İzinler"
+
+#~ msgid ""
+#~ "Enter the start date (and time if necessary) that the element will be "
+#~ "shown in the format Year/Month/Day Hour:Minute. Leave empty if there is "
+#~ "no start date. The time should be in server date/time.<br/>Examples: "
+#~ "2016/01/30 or 2016/01/30 15:10<br/>Current Server Time: "
+#~ msgstr ""
+#~ "Bu öğenin gösterileceği başlangıç tarihini (ve gerekliyse saatini) girin. "
+#~ "Zaman Yıl/Ay/Gün Saat:Dakika olarak girilmelidir. Bitiş tarihi yok ise "
+#~ "boş bırakınız. Sunucu tarihi ve saati baz alınmalıdır. <br/>Örnek: "
+#~ "2016/01/30 or 2016/01/30 15:10<br/>Sunucu Zamanı: "
+
+#~ msgid ""
+#~ "Enter the end date (and time if necessary) that the element will be shown "
+#~ "in the format Year/Month/Day Hour:Minute. Leave empty if there is no end "
+#~ "date. The date should be in server date/time.<br/>Examples: 2016/01/30 or "
+#~ "2016/01/30 15:10<br/>Current Server Time: "
+#~ msgstr ""
+#~ "Bu öğenin gösterileceği bitiş tarihini (ve gerekliyse saatini) girin. "
+#~ "Zaman Yıl/Ay/Gün Saat:Dakika olarak girilmelidir. Bitiş tarihi yok ise "
+#~ "boş bırakınız. Sunucu tarihi ve saati baz alınmalıdır. <br/>Örnek: "
+#~ "2016/01/30 or 2016/01/30 15:10<br/>Sunucu Zamanı: "

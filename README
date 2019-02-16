@@ -1,0 +1,22 @@
+MCW Elements for Users - Addon for Visual Composer
+
+Show Visual Composer content elements only to target audience depending on their user attributes such as user role, log in information and user names.
+
+How To Use:
+1. Activate Visual Composer. This plugin requires at Visual Composer 4.4 or greater.
+2. Activate 'Elements for Users - Addon for Visual Composer' plugin.
+3. Go to 'Elements for Users' settings under Wordpress Options menu. Choose which VC content element will show user attribute settings.
+4. Edit any page and go to Visual Composer element settings.
+5. If 'Everyone' is selected from 'Show For', the VC element will be shown for everyone.
+6. If 'Not Logged In Users' is selected from 'Show For', the VC element will be shown for the visitors that have not been logged in.
+7. If 'All Members' is selected from 'Show For', the VC element will be shown for the users that have been logged in.
+8. If 'Members with Selected User Roles' is selected from 'Show For', the VC element will be shown for the users that have the selected user role(s).
+9. If 'Selected Users' is selected from 'Show For', the VC element will be shown for the selected users.
+10. If 'Discarded Users' is selected from 'Show For', the VC element will NOT be shown for the selected users and will be shown for others.
+11. If 'Selected Devices' is selected from 'Show For', the VC element will be shown for the selected devices.
+
+Thanks to
+- [Mobile Detect by Serban Ghita]
+- [LC Switch by Luca Montanari]
+
+Copyright 2015 Mehmet Celik

@@ -1,0 +1,53 @@
+.vc-efu-repeat-container,
+.vc-efu-repeat-container .vc-efu-wrapper,
+.vc-efu-repeat-container .vc-efu-container,
+.vc-efu-repeat-container .vc-efu-row {
+  display: block;
+  position: relative;
+}
+
+.vc-efu-repeat-container .vc-efu-row {
+  background: #eee;
+  padding: 5px 35px 5px 5px;
+  border: 1px solid #ccc;
+  margin: 5px 0;
+}
+
+.vc-efu-repeat-container .vc-efu-row.vc-efu-template{
+  display: none;
+}
+
+.vc-efu-repeat-container .vc-efu-row input{
+  margin: 0 5px;
+  display: inline-block;
+  width: 150px;
+  max-width: 40%;
+}
+
+.vc-efu-repeat-container .vc-efu-row a {
+  position: absolute;
+  box-sizing: border-box;
+  width: auto;
+  top: 50%;
+  right: 0;
+  padding: 5px;
+  margin-top: -14px;
+  margin-right: 4px;
+
+  font-size: 14px;
+  line-height: 14px;
+  color: #f00000;
+  border: 1px dashed #f00000;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.vc-efu-repeat-container .vc-efu-add-btn a{
+  outline: none;
+  width: auto;
+  border: none;
+}
+
+.vc-efu-repeat-container .vc-efu-add-btn a span{
+  padding: 5px 10px;
+}
